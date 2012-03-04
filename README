@@ -1,0 +1,4 @@
+Adds left and right arrow for navigating forward and back in the timeline. s and t will go to the start and most current comic. Also, changed the actual comic image so that it will be a clickable link to the next comic.
+Also, made it a bit easier to read by only showing the div with the comic itself. This can be toggled to the original layout with f.
+
+http://userscripts.org/scripts/show/97499
